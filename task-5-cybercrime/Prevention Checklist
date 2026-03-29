@@ -1,5 +1,5 @@
 Prevention ChecklistFile 
-Name: prevention-checklist.md 
+
 Use Multi-Factor Authentication (MFA): Always enable 2FA on your university email, LinkedIn, and social media accounts to provide an extra layer of security beyond just a password.
 Verify UPI "Collect" Requests: Never enter your UPI PIN to receive money; a PIN is only required to send or transfer money out of your account.
 Check for "https://" and Padlocks: Before entering credentials on any website, ensure the URL starts with https:// and displays a padlock icon to indicate an encrypted connection.
@@ -8,4 +8,4 @@ Scan QR Codes with Caution: Treat QR codes like links; never scan a QR code sent
 Audit App Permissions: Regularly check your smartphone settings to see which apps have access to your camera, contacts, and microphone, and revoke permissions for apps that don't need them.
 Identify Phishing Markers: Be skeptical of emails or SMS (Smishing) that create a false sense of urgency, such as "Your account will be suspended in 2 hours".
 Keep Software Updated: Install the latest security patches for your OS and apps to protect against known vulnerabilities that hackers exploit.
-🚨 How to Report Cybercrime in India: Official Portal: [suspicious link removed]National Helpline: 1930 (Available 24/7)
+🚨 How to Report Cybercrime in India: Official Portal: [https://cybercrime.gov.in]National Helpline: 1930 (Available 24/7)
