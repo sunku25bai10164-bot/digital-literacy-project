@@ -3,9 +3,9 @@ Digital Literacy Portfolio Project
 
 Course Code: CSE0001 
 
-Student Name: [SUNKU VENKATA SAI DEEPAK]
+Student Name: SUNKU VENKATA SAI DEEPAK
 
-Registration Number: [25BAI10164]
+Registration Number: 25BAI10164
 
 Repository StructureThe project is organized into the following folders as per the assignment requirements:Folder / FileContent DescriptionREADME.mdProject overview, student details, and module summaries.report/Full Project_Report.pdf covering all 5 tasks and reflections.task-1-presentation/Digital Literacy Awareness Infographic and description.task-2-portfolio/Screenshots of LinkedIn, GitHub, and professional profiles.task-3-platforms/Proof of coding challenges and Google Form quiz link.task-4-email-etiquette/Professional email drafts and social media checklist.task-5-cybercrime/Cybercrime case study and prevention guide
 
