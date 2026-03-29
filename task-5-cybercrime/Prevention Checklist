@@ -1,5 +1,11 @@
-Prevention Checklist File: 
-prevention-checklist.md Always use multi-factor authentication (MFA) 
-turn on two-factor authentication for your university email, LinkedIn, and social media accounts because this will help too (add an additional layer of security) with protecting you from identity theft (using a password); 
-always verify UPI “collect” requests—will never enter a UPI PIN to ‘get’ money, only use your UPI PIN to ‘send’/transfer out of a bank account check that the site you’re entering credentials into has an https:// URL and a padlock icon on the right side next to the URL (both will indicate the connection is encrypted); 
-do not use free publicly available Wi-Fi to access your bank app or enter sensitive privacy passwords while using public or campus Wi-Fi, do so only while using your mobile data; be careful scanning QR codes—treat every QR code like a website; never scan wrap a QR code sent from a person you don’t know claiming it would ‘deposit’ money into your bank account; regularly check to see what applications on your phone and tablet have access to your camera, contacts, and microphone; turn of access to any Application that shouldn’t have access; identify potential phishing markers; i.e., email or SMS (smishing) that suggests immediate response to be tricked into a scam are examples of potential phishing scams.
+Prevention ChecklistFile 
+Name: prevention-checklist.md 
+Use Multi-Factor Authentication (MFA): Always enable 2FA on your university email, LinkedIn, and social media accounts to provide an extra layer of security beyond just a password.
+Verify UPI "Collect" Requests: Never enter your UPI PIN to receive money; a PIN is only required to send or transfer money out of your account.
+Check for "https://" and Padlocks: Before entering credentials on any website, ensure the URL starts with https:// and displays a padlock icon to indicate an encrypted connection.
+Avoid Public Wi-Fi for Banking: Refrain from accessing banking apps or entering sensitive passwords while connected to free campus or public Wi-Fi; use your mobile data instead.
+Scan QR Codes with Caution: Treat QR codes like links; never scan a QR code sent by a stranger claiming it will "deposit" a prize or refund into your account.
+Audit App Permissions: Regularly check your smartphone settings to see which apps have access to your camera, contacts, and microphone, and revoke permissions for apps that don't need them.
+Identify Phishing Markers: Be skeptical of emails or SMS (Smishing) that create a false sense of urgency, such as "Your account will be suspended in 2 hours".
+Keep Software Updated: Install the latest security patches for your OS and apps to protect against known vulnerabilities that hackers exploit.
+🚨 How to Report Cybercrime in India: Official Portal: [suspicious link removed]National Helpline: 1930 (Available 24/7)
